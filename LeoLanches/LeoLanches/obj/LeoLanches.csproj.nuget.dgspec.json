@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Curso\\CursoAspNet\\LeoLanches\\LeoLanches\\LeoLanches.csproj": {}
+    "C:\\el\\Projetos\\Estudo\\CursoAspNet\\LeoLanches\\LeoLanches\\LeoLanches.csproj": {}
   },
   "projects": {
-    "D:\\Curso\\CursoAspNet\\LeoLanches\\LeoLanches\\LeoLanches.csproj": {
+    "C:\\el\\Projetos\\Estudo\\CursoAspNet\\LeoLanches\\LeoLanches\\LeoLanches.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Curso\\CursoAspNet\\LeoLanches\\LeoLanches\\LeoLanches.csproj",
+        "projectUniqueName": "C:\\el\\Projetos\\Estudo\\CursoAspNet\\LeoLanches\\LeoLanches\\LeoLanches.csproj",
         "projectName": "LeoLanches",
-        "projectPath": "D:\\Curso\\CursoAspNet\\LeoLanches\\LeoLanches\\LeoLanches.csproj",
+        "projectPath": "C:\\el\\Projetos\\Estudo\\CursoAspNet\\LeoLanches\\LeoLanches\\LeoLanches.csproj",
         "packagesPath": "C:\\Users\\leonardo.espindula\\.nuget\\packages\\",
-        "outputPath": "D:\\Curso\\CursoAspNet\\LeoLanches\\LeoLanches\\obj\\",
+        "outputPath": "C:\\el\\Projetos\\Estudo\\CursoAspNet\\LeoLanches\\LeoLanches\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\el\\Componentes\\dotNet\\Components\\Offline Packages",
@@ -28,8 +28,9 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\sdk\\7.0.306\\Sdks\\Microsoft.NET.Sdk.Web\\library-packs": {},
           "C:\\el\\Componentes\\dotNet\\Components\\System\\Components\\Packages": {},
-          "D:\\Componentes\\dotNet\\DevExpress 22.1\\DevExtreme\\System\\DevExtreme\\Bin\\AspNetCore": {},
+          "C:\\el\\Componentes\\dotNet\\DevExtreme\\System\\DevExtreme\\Bin\\AspNetCore": {},
           "https://api.nuget.org/v3/index.json": {},
           "https://nuget.devexpress.com/itZblV457gajUxww3eu2DdnyNDZhfFzOzP77cTAWVUYmWYwLRY/api": {}
         },
@@ -85,7 +86,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.200\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.306\\RuntimeIdentifierGraph.json"
         }
       }
     }
